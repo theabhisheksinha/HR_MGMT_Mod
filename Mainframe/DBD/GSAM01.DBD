@@ -1,0 +1,12 @@
+***********************************************************************
+* NAME GSAM01    DBDLIB IMSP.DBDLIB                                 *
+* GEN DATE 09/22/08 12:01              IMS RELEASE 9.1.0              *
+* DISASSEMBLED BY                      DECEMBER 6, 2009   9.59.37     *
+***********************************************************************
+         DBD   NAME=GSAM01,ACCESS=(GSAM,BSAM),                       X
+               VERSION='09/22/0812.01'
+DSG1     DATASET DD1=GSAM01,                                         X
+               DD2=GSAM01,RECFM=FB
+         DBDGEN
+         FINISH
+         END
